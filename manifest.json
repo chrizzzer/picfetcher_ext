@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
 
-  "name"			: "FirstExt",
+  "name"			: "PicFetcher",
   "version"			: "0.1",
-  "description"		: "This is a first Chrome extension.",
+  "description"		: "This is a first Chrome extension displaying a website's brand icon.",
 
 
   "browser_action"	: {
